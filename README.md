@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm KALYANI ZADE <br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning Gen AI<br>- ⚡ In my free time I Love to Dance</p>
 
 ###
 
