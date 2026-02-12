@@ -29,9 +29,12 @@ Here are some ideas to get you started:
            alt="linkedin logo" />
     </a>
     
-    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-      <<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+         <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
+         height="25" 
+         alt="gmail logo" />
+      </a>
+
 
 
   
