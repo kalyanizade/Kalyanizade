@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm KALYANI ZADE <br><br>- 🔭 I’m working as Data Analyst <br>- 📚 I'm currently learning Data Science & AI<br>- ⚡ In my free time I Love to Dance</p>
+<p align="left">I'm KALYANI ZADE <br><br>- 🔭 I’m working as Data Science Analyst <br>- 📚 I'm currently learning Data Science & AI<br>- ⚡ In my free time I Love to Dance</p>
 
 ###
 
